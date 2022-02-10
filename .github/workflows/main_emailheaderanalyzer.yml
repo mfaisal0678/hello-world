@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'EmailHeaderAnalyzer'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B7F4240F21954575BF1B8EDA03C4E6F4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FF50E6DA3FE4B888ED63D1DE3B172CC }}
